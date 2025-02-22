@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": {
+    "name": "Pedro Estevão",
+    "email": "pedropaulista11@gmail.com",
+    "url": "https://www.pedroestevao.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",

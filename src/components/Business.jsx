@@ -24,7 +24,7 @@ const Business = () => {
 				<Button styles="mt-10" />
 			</div>
 
-			<div className={`${layout.sectionImg} flex-col`}>
+			<div className={`${layout.sectionImg} flex-col mt-20 md:mt-10`}>
 				{features.map((feature, index) => (
 					<FeatureCard key={feature.id} {...feature} index={index} />
 				))}
