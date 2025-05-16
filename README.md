@@ -25,7 +25,7 @@ This repository contains a modern landing page developed with **Vite** and **Tai
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pedro-Estevao/modern-website-tailwind
+   git clone https://github.com/pedroestevaodev/modern-website-tailwind.git
    ```
 2. Navigate to the project folder:
    ```bash
